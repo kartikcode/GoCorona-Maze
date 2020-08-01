@@ -1,4 +1,4 @@
-# GoCorona-Maze
+# Maze Game implemented in JavaScript
 Maze game developed using Javascript with additional features.<br>
 Idea originally inspired from Pickle Rick Maze game( just Google it). However, 'cause COVID-19 is trending these days,<br>
 I'm planning to add the following functionalities to it:<br>
